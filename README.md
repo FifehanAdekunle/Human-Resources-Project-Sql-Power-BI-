@@ -6,10 +6,10 @@ In this project, I have created a comprehensive Human Resources Dashboard utiliz
 
 **Project Resources: **
 
-The dataset:[Human Resources.csv](https://github.com/FifehanAdekunle/Human-Resources-Project-Sql-Power-BI-/blob/main/Human%20Resources.csv) Please Download to use.
-The data cleaning Code: [Human Resources Cleaning.sql] Please Copy the code to Use.
-Questions for Visualization: [Human Resources Question.pdf] 
-Code For Visualization: [Human Resources Answers.sql]) Please Copy the code to Use.
-Data Visualization in PowerBi: [HR EMPLOYEE DISTRIBUTION REPORT.pbix]
+1.	The dataset:[Human Resources.csv](https://github.com/FifehanAdekunle/Human-Resources-Project-Sql-Power-BI-/blob/main/Human%20Resources.csv) Please Download to use.
+2.	The data cleaning Code: [Human Resources Cleaning.sql] Please Copy the code to Use.
+3.	Questions for Visualization: [Human Resources Question.pdf] 
+4.	Code For Visualization: [Human Resources Answers.sql]) Please Copy the code to Use.
+5.	Data Visualization in PowerBi: [HR EMPLOYEE DISTRIBUTION REPORT.pbix]
 
 
