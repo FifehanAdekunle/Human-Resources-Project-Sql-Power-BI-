@@ -34,9 +34,9 @@ In this project, I have created a comprehensive Human Resources Dashboard utiliz
 
 This project showcases my expertise in data cleaning, SQL querying, and Power BI visualization. By combining these skills, I have created a powerful tool that revolutionizes how HR data is utilized and empowers organizations to make strategic HR decisions.
 
-**Project GitHub Link:**
+**Project Resources:**
 
-Option 1: [Human Resources Dashboard GitHub Repository](https://github.com/YourUsername/HR-Dashboard-Project)
+The dataSet :[Human Resources.csv](https://github.com/FifehanAdekunle/Human-Resources-Project-Sql-Power-BI-/blob/main/Human%20Resources.csv)
 Option 2: [HR Metrics Visualization Project on GitHub](https://github.com/YourUsername/HR-Metrics-Visualization)
 Option 3: [SQL-PowerBI HR Analytics Dashboard GitHub Repo](https://github.com/YourUsername/SQL-PowerBI-HR-Dashboard)
 Option 4: [HR Insights Dashboard Project - GitHub Repository](https://github.com/YourUsername/HR-Insights-Dashboard)
