@@ -6,9 +6,13 @@ In this project, I have created a comprehensive Human Resources Dashboard utiliz
 
 Project Resources: 
 1.	The dataset: Human Resources.csv Please Download it to use.
-2.	The data cleaning Code: Human Resources Cleaning.sql Please Copy code to Use.
+2.	The data cleaning Code: Human Resources Cleaning.sql Please Copy the code to Use.
 3.	Questions for Visualization: Human Resources Question.pdf
 4.	Code for Visualization: Human Resources Answers.sql Please Copy code to Use.
 5.	Data Visualization in PowerBi: HR EMPLOYEE DISTRIBUTION REPORT.pbix
+
+Credit:
+https://youtu.be/PzyZI9uLXvY
+
 
 
