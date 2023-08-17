@@ -12,6 +12,7 @@ Project Resources:
 5.	Data Visualization in PowerBi: HR EMPLOYEE DISTRIBUTION REPORT.pbix
 
    📊 Summary of Key Findings: Insights from HR Data Analysis 📊
+   
 Gender Diversity: Male employees dominate the workforce, constituting 54% of the total. There's a balanced gender distribution across departments, with a slight male majority.
 
 Ethnic Representation: The most dominant ethnicity is White, while Native Hawaiian and American Indian employees are the least represented.
